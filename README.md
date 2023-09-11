@@ -3,7 +3,7 @@ Server.js da pasta raiz
 <br>
 Comando para iniciar projeto:
 <br>
-npme init -y
+npm init -y
 <br>
 Comando para instalar dependências:
 <br>
